@@ -1,6 +1,5 @@
         [
             {
-                "seriesId":1,
                 "seriesImgURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmydramalist.com%2F688213-ghost-doctor&psig=AOvVaw1r9SYf29Y7V7rf0f88-pah&ust=1645102903986000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCZwPyjhPYCFQAAAAAdAAAAABAJ",
                 "seriesImgURL2":"https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FtfM9yu&psig=AOvVaw1KMY88N26LXxdY0SJw2Aon&ust=1645103045003000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDh2b-khPYCFQAAAAAdAAAAABAU",
                 "seriesLogo":"",
@@ -13,7 +12,6 @@
                 "seriesDirector":"",
                 "seriesStatus":"Ongoing"
             },{
-                "seriesId":2,
                 "seriesImgURL": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.koreaherald.com%2Fview.php%3Fud%3D20211220000633&psig=AOvVaw2YIHL99uli8qQRdYqhF5zl&ust=1645103201250000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiNhIqlhPYCFQAAAAAdAAAAABAI",
                 "seriesImgURL2":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nme.com%2Fen_asia%2Freviews%2Ftv-reviews%2Fsnowdrop-review-blackpink-jisoo-jung-hae-in-k-drama-disney-plus-3157617&psig=AOvVaw2YIHL99uli8qQRdYqhF5zl&ust=1645103201250000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiNhIqlhPYCFQAAAAAdAAAAABAZ",
                 "seriesLogo":"",
